@@ -1,0 +1,6 @@
+name: PiggyPet
+version: '1.0'
+main: pl.twojnick.piggypet.PiggyPet
+api-version: '1.20'
+author: TwojNick
+description: Swinia-pet z ekwipunkiem i podazaniem za graczem.
